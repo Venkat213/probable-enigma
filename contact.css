@@ -1,0 +1,49 @@
+#top{
+    text-align: center;
+    background-color: darkblue;
+    padding: 15px;
+}
+
+.top-page{
+    color: white;
+    padding-left: 25px;
+    font-size: large;
+}
+
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    background-color: white;
+    border: 10px solid gray;
+    border-width: 1px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ele{
+    padding-top: 20px;
+}
+
+.input-ele{
+    border: none;
+    border-bottom: 1px solid black; 
+}
+
+.sub{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: darkblue;
+    /*border: none;*/
+    border-radius: 4px solid black;
+    font-size: larger;
+    color: white;
+}

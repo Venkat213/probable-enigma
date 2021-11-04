@@ -1,0 +1,18 @@
+#top{
+    text-align: center;
+    background-color: darkblue;
+    /*margin-top: -8;
+    margin-left: -8;
+    margin-right: -7;*/
+    padding: 15px;
+}
+
+.top-page{
+    color: white;
+    padding-left: 25px;
+    font-size: large;
+}
+
+body{
+    margin: 0;
+}

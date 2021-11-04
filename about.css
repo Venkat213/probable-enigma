@@ -1,0 +1,28 @@
+#top{
+    text-align: center;
+    background-color: darkblue;
+    margin-top: -8;
+    margin-left: -8;
+    margin-right: -7;
+    padding: 15px;
+}
+
+.top-page{
+    color: white;
+    padding-left: 25px;
+    font-size: large;
+}
+
+#about-us{
+    text-align: center;
+    font-size: 25px;
+}
+
+#head{
+    text-align: center;
+}
+
+#end{
+    text-align: center;
+    font-size: xx-large;
+}
